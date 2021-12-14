@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DAA2A2"
+    tools:context=".Things_to_remember">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10sp"
+        android:layout_marginStart="10sp"
+        android:layout_marginBottom="10sp"
+        android:layout_marginEnd="10sp"
+        >
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Read Carefully"
+                android:textColor="#ffff"
+                android:layout_marginTop="20dp"
+                android:textAlignment="center"
+                android:textAllCaps="false"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:background="@drawable/send_sms_btn">
+            </Button>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="You should always carry papper sprayor a lipstick taser or nail cutter as safety tool"
+                android:textColor="#ffff"
+                android:layout_marginTop="50dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Shout whenever you see potential help"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Don't act like a victim"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Manage the distance"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Never trust a stranger"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hit the body parts that are the most tender(hints provided in this application"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Always wait for the bus or train in a well-lit place near other people if possible"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="If you do get asked for sex by someone slowly driving their car alongside you, feel free to report the creep to the police – it’s illegal."
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Keep Your Keys Handy"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Use of Woman Safety Devices"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Make eye contact"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Avoid announcing address and contact number publicly"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Understand your physical power and strength and use accordingly"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#6F2B2B"
+                android:text="Stay away from alleyways and dark corners"
+                android:textAlignment="center"
+                android:textColor="#ffff"
+                android:textSize="18sp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Don't share location online"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Don't share address and contact number on social media"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:background="#6F2B2B"
+                android:text="Avoid isolated  areas"
+                android:textAlignment="center"
+                android:textColor="#ffff"
+                android:textSize="18sp">
+
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Avoid late night outing or ensure any companion"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Stick to the route you know well"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Avoid earphones while travelling alone at night"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Inform family member or friends where you going "
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Escape is always the best option"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Stay in a well-lit public area"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Always lock doors and windows at both home and personal vehicles"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Be aware of the surrounding environment and people's behavior"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Limit or avoid alcohol consumption"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=" Walk into a store or a coffee shop and ask for help"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Keep your phone handy while walking alone but avoid unnecessary usage"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="If you've booked a cab/taxi, share your coordinates with someone"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Use Internet and sixth sense wisely"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Hammer strike. Using your car keys is one of the easiest ways to defend yourself"
+                android:textColor="#ffff"
+                android:layout_marginTop="8dp"
+                android:textAlignment="center"
+                android:textSize="18sp"
+                android:background="#6F2B2B">
+            </TextView>
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

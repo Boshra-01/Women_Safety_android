@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Authntication App</string>
+    <string name="rape_law_description">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br>CHAPTER IV
+
+GENERAL EXCEPTIONS \n</br>
+        \n<br><b><u>When the right of private defence of the body extends to causing death \n</u></b></br>
+\n<br>100. The right of private defence of the body extends, under the restrictions mentioned in the last preceding section, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right be of any of the descriptions hereinafter enumerated, namely:-
+
+
+\n<br><u><b>Firstly</b></u></br>-Such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;
+
+
+\n<br><u><b>Secondly</b></u></br>-Such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;
+
+
+\n<br><u><b>Thirdly</b></u></br>-An assault with the intention of committing rape;
+
+
+\n<br><u><b>Fourthly</b></u></br>-An assault with the intention of gratifying unnatural lust;
+
+
+\n<br><u><b>Fifthly</b></u></br>-An assault with the intention of kidnapping or abducting;
+
+
+\n<br><u><b>Sixthly</b></u></br>-An assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release. \n</br>
+
+    </string>
+    <string name="law2">
+        <br><b><u>The Penal Code, 1860
+( ACT NO. XLV OF 1860 ) </u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br><b><u>Rape \n</u></b></br>
+\n<br>375. A man is said to commit "rape" who except in the case hereinafter excepted, has sexual intercourse with a woman under circumstances falling under any of the five following descriptions:
+
+
+\n<br><u><b>Firstly</b></u></br>- Against her will.
+
+
+\n<br><u><b>Secondly</b></u></br>- Without her consent.
+
+
+\n<br><u><b>Thirdly</b></u></br>- With her consent, when her consent has been obtained by putting her in fear of death, or of hurt.
+
+
+\n<br><u><b>Fourthly</b></u></br>- With her consent, when the man knows that he is not her husband, and that her consent is given because she believes that he is another man to whom she is or believes herself to be lawfully married.
+
+
+\n<br><u><b>Fifthly</b></u></br>- With or without her consent, when she is under fourteen years of age.
+
+
+Explanation- Penetration is sufficient to constitute the sexual intercourse necessary to the offence of rape.
+
+
+Exception- Sexual intercourse by a man with his own wife, the wife not being under thirteen years of age, is not rape. \n</br>
+
+    </string>
+    <string name="law3">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br> <b><u>Punishment for rape\n</u></b></br>
+\n<br>376. Whoever commits rape shall be punished with 2[imprisonment] for life or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine, unless the woman raped is his own wife and is not under twelve years of age, in which case he shall be punished with imprisonment of either description for a term
+    which may extend to two years, or with fine, or with both. \n</br>
+    </string>
+
+    <string name="law4">
+        <br><b><u>The Penal Code, 1860
+( ACT NO. XLV OF 1860 ) </u></b></br>
+\n<br> CHAPTER XX
+
+OF OFFENCES RELATING TO MARRIAGE\n</br>
+        \n<br><b><u> Adultery\n</u></b></br>
+\n<br> 497. Whoever has sexual intercourse with a person who is and whom he knows or has reason to believe to be the wife of anather man, without the consent or connivance of that man, such sexual intercourse not amounting to the offence of rape, is guilty of the offence of adultery, and shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.
+    In such case the wife shall not be punished as an abettor.\n</br>
+    </string>
+
+    <string name="law5">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br><b><u> Kidnapping\n</u></b></br>
+\n<br> 359. Kidnapping is of two kinds: kidnapping from Bangladesh, and kidnapping from lawful guardianship.\n</br>
+    </string>
+
+    <string name="law6">
+        <br><b><u>The Penal Code, 1860
+( ACT NO. XLV OF 1860 ) </u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br><b><u>Kidnapping from Bangladesh, etc. \n</u></b></br>
+\n<br> 360. Whoever conveys any person beyond the limits of Bangladesh without the consent of that person, or of some person legally authorized to consent on behalf of that person,
+    is said to kidnap that person from Bangladesh.\n</br>
+    </string>
+
+    <string name="law7">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br><b><u> Kidnapping from lawful guardianship\n</u></b></br>
+\n<br> 361. Whoever takes or entices any minor under fourteen years of age if a male, or under sixteen years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind,
+    without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship.
+
+
+Explanation.-The words "lawful guardian" in this section include any person lawfully entrusted with the care or custody of such minor or other person.
+
+
+Exception.-This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.\n</br>
+    </string>
+
+    <string name="law8">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br> CHAPTER XVI
+
+OF OFFENCES AFFECTING THE HUMAN BODY\n</br>
+        \n<br><b><u> Punishment for kidnapping\n</u></b></br>
+\n<br> 363. Whoever kidnaps any person from Bangladesh or from lawful guardianship, shall be punished with imprisonment of either description for a term which may extend to seven years,
+    and shall also be liable to fine.\n</br>
+    </string>
+
+    <string name="law9">
+        <br><b><u>The Penal Code, 1860
+( ACT NO. XLV OF 1860 ) </u></b></br>
+\n<br> CHAPTER IV
+
+GENERAL EXCEPTIONS\n</br>
+        \n<br><b><u> Right of private defence against deadly assault when there is risk of harm to innocent person\n</u></b></br>
+\n<br> 106. If in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender be so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
+
+
+Illustration
+
+
+A is attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob. A commits no offence if by so firing he harms any of the children.
+ \n</br>
+    </string>
+
+    <string name="law10">
+        <br><b><u>The Penal Code, 1860
+( ACT NO. XLV OF 1860 ) </u></b></br>
+\n<br> CHAPTER VIII
+
+OF OFFENCES AGAINST THE PUBLIC TRANQUILITY\n</br>
+        \n<br><b><u> Assaulting or obstructing public servant when suppressing riot, etc.\n</u></b></br>
+\n<br> 152. Whoever assaults or threatens to assault, or obstructs or attempts to obstruct, any public servant in the discharge of his duty as such public servant, in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, or uses, or threatens, or attempts to use criminal force to such public servant, shall be punished with imprisonment of either description for a term which
+    may extend to three years or with fine, or with both.\n</br>
+    </string>
+
+
+    <string name="law11">
+        <br><b><u> The Penal Code, 1860
+( ACT NO. XLV OF 1860 )</u></b></br>
+\n<br> CHAPTER XIV
+
+OF OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE, DECENCY AND MORALS\n</br>
+        \n<br><b><u> Danger or obstruction in public way or line of navigation\n</u></b></br>
+\n<br>283. Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation,
+    shall be punished with fine which may extend to two hundred taka. \n</br>
+    </string>
+
+
+</resources>
